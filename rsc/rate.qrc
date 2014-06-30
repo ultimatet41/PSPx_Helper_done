@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>inetPs3.png</file>
+        <file>eu.png</file>
+        <file>usa.png</file>
+        <file>jp.png</file>
+        <file>ico.png</file>
+        <file>xbox-live.png</file>
+        <file>cancel.png</file>
+        <file>ok .png</file>
+        <file>about.png</file>
+        <file>settings.png</file>
+        <file>exit.png</file>
+        <file>clear.png</file>
+        <file>pspx.png</file>
+        <file>Search.png</file>
+        <file>camera.png</file>
+        <file>game.png</file>
+        <file>panel.png</file>
+        <file>igromania_logo.png</file>
+        <file>ign4.png</file>
+        <file>gt.png</file>
+        <file>logo.gif</file>
+        <file>RadikalFoto.png</file>
+        <file>rateImg/3.png</file>
+        <file>rateImg/7.png</file>
+        <file>rateImg/11.png</file>
+        <file>rateImg/12.png</file>
+        <file>rateImg/16.png</file>
+        <file>rateImg/18.png</file>
+    </qresource>
+</RCC>
